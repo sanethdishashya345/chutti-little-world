@@ -1,5 +1,5 @@
 // Edit the names below.
-const CONFIG = {"recipient": "Marie", "sender": "Saneth"};
+const CONFIG = {"recipient": "Chutti", "fullName": "Vilara Manulji", "sender": "Saneth"};
 const MOODS = {"sad": ["😔", "When you're sad"], "miss": ["🥺", "When you miss me"], "stress": ["📚", "When you're stressed"], "sleep": ["🌙", "When you can't sleep"], "happy": ["🌷", "When you're happy"], "doubt": ["🦋", "When you doubt yourself"]};
 const LETTERS = {
   "sad": [
